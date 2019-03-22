@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clicksign.Client", "Clicksign.Client\Clicksign.Client.csproj", "{22AFC786-81D2-44CF-B3D2-024D52FB71AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clicksign.Client.Test", "Clicksign.Client.Test\Clicksign.Client.Test.csproj", "{AD2EA5C1-84BF-4E88-981B-2F543162B433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AFC786-81D2-44CF-B3D2-024D52FB71AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AFC786-81D2-44CF-B3D2-024D52FB71AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AFC786-81D2-44CF-B3D2-024D52FB71AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AFC786-81D2-44CF-B3D2-024D52FB71AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2EA5C1-84BF-4E88-981B-2F543162B433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2EA5C1-84BF-4E88-981B-2F543162B433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2EA5C1-84BF-4E88-981B-2F543162B433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2EA5C1-84BF-4E88-981B-2F543162B433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1A688B-828F-42E4-981E-EF859241E266}
+	EndGlobalSection
+EndGlobal
